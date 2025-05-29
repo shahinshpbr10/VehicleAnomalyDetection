@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/SHANU/Valeo/SampleMLopsProject/VehicleAnomalyDetectionusingEngineTemperature/mlruns/749882305691439148/317af9c9c31c492f8af49e942654c591/artifacts
+end_time: 1748455306262
+entry_point_name: ''
+experiment_id: '749882305691439148'
+lifecycle_stage: active
+run_id: 317af9c9c31c492f8af49e942654c591
+run_name: welcoming-turtle-558
+run_uuid: 317af9c9c31c492f8af49e942654c591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748455298257
+status: 3
+tags: []
+user_id: SHANU
